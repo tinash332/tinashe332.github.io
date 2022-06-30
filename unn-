@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>MARK T RUKAWO</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="styles.css">
+    <!--to make it responsive we use the above line -->
+  
+    </head>
+
+    <body>
+
+    <header>
+        <h1 style="color:white;" >
+
+            <p style="text-align:left ;">
+            INFOMATION ABOUT MARK T RUKAWO
+            </p>
+        </h1>   
+    </header>
+        <style type="text/css">
+        body{
+          background-color:rgb(3, 3, 20);
+        }
+        </style>
+        <center>
+            
+            <img src="tintin.jpg"  style="color:white;" alt="An image of Mark t Rukawo" width="280" height="290"/>
+            
+        <p style="color:white;">Mark is a male aged 21 born in 2001 on the 13<sup>nth</sup> of March at Parirenyatwa Hospital in Harare<br> 
+        He started his preschool at 5 years old at an institution called Manro. He then went to learn in the city of Bulawayo from Grade 2 up to Grade 4.<br>
+    He then continued his education at Martindale Catholic Primary School .Thats where he complited his primary education. <br>
+    From there he started his high school at Howard High School .At O level he obtained 5 'A's,3 'B's and 1'C'.<br>Below are his social Accounts </p>
+    <p>
+        <a href="https://instagram.com/mark_tinash3?igshid=YmMyMTA2M2Y="><button>instagram</button></a>
+        <a href="https://twitter.com/Mark_tinash3?t=n3QSMJtTlxcAx8aUblv5ZQ&s=09"><button>twitter</button></a>
+        <a href="https://www.facebook.com/mark.lamar.771"><button>facebook</button></a>
+    </p>
+     
+</center>
+<p >
+    <footer style="text-align: center;">
+        <p style="color:white;" >Created by Career Mark. © 2022</p>
+    </footer>
+     </p>
+    </body>
+</html>
